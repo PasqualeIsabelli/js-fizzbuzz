@@ -1,0 +1,9 @@
+.square-container {
+  aspect-ratio: 1/1;
+}
+
+.fizz-square {
+  aspect-ratio: 1/1;
+  border: 1px solid grey;
+  width: calc(100% / 8);
+}
